@@ -1,2 +1,2 @@
-# Default layout
-Default layout that shipped with the NIU mini
+# Welson's Niu Mini Layout
+The layout I prefer to use on the niu mini.
